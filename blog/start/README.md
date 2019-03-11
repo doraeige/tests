@@ -1,4 +1,4 @@
-# Responsive Images: Project Part 2 #
+# Responsive Images#
 
 ## Your Goals: ##
 
@@ -8,7 +8,7 @@
 
 ## How you know you're done ##
 
-A code will appear in the Udacity Feedback when all Project Part 2 tests pass. Paste the code in to the Udacity classroom to complete the quiz!
+A code will appear in the Udacity Feedback when all tests pass. Paste the code in to the Udacity classroom to complete the quiz!
 
 [More on the Udacity Front-End Grading Engine](https://github.com/udacity/frontend-grading-engine)
 
